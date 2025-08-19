@@ -170,5 +170,3 @@ This project is for educational purposes. Feel free to use any code snippets for
 **Happy Learning! 🚀**
 
 *Last updated: [19 August 2025]*
-
-> 💡 **Tip**: Keep this README updated as you progress through your learning journey. It will serve as a great reference and showcase your growth in React Native development!
